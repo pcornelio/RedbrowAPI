@@ -20,7 +20,7 @@ Update-Database
 Pasos para Compilar y Ejecutar
 1. Clona el Repositorio:
 ```bash
-git clone https://github.com/pcornelio/frontend.git
+git clone https://github.com/pcornelio/RedbrowAPI.git
 cd frontend
 ```
 2. Compila y ejecuta el proyecto: 
